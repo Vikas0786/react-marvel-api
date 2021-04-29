@@ -5,9 +5,13 @@ const Home = () => {
   return (
     <div>
       <h2>
-        This is a single page application created using React.js and Marvel API.
+        THIS PROJECT IS A SINGLE PAGE APPLICATION CREATED USING MARVEL API and
+        REACT.JS.
       </h2>
-      <h3>This application uses Characters, Comics and Series listings.</h3>
+      <h3>
+        You can search your favourite character and also you can find the
+        details of Characters, Comics and Series.
+      </h3>
       <p>
         Developed by{" "}
         <a
