@@ -20,11 +20,11 @@ input {
 
 .App-header {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   text-align: left !important;
-  background-image: url("https://i.annihil.us/u/prod/marvel/i/mg/8/e0/52bdf830aa094.jpg");
+  background-image: url("http://www.unleashthefanboy.com/wp-content/uploads/2012/05/ironman_banner.jpg");
   background-size: cover;
-  height: auto;
+  height: 20rem;
   color: #fff;
   margin-bottom: 50px;
   max-width: 100vw;
@@ -38,8 +38,9 @@ input {
 
 .headerContent {
   display: flex;
+  align-items: center;
   flex-direction: column;
-  text-align: left;
+  text-align: center;
   height: 100%;
   width: 100%;
 }
